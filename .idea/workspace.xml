@@ -2,9 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ca9df37f-39ca-4705-b5b6-d895567cf78c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/TypeConverting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/11.10.2019/ArraysAndRandoms.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/11.10.2019/Circle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/11.10.2019/ClosedEnvelope.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/11.10.2019/TypeConverting.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArraysAndRandoms.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Circle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/11.10.2019/ClosedEnvelop.class" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -27,6 +32,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RunDashboard">
@@ -41,23 +47,23 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.TypeConverting">
+  <component name="RunManager" selected="Application.ArraysAndRandoms">
+    <configuration name="ArraysAndRandoms" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ArraysAndRandoms" />
+      <module name="11.10.2019" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Circle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Circle" />
+      <module name="11.10.2019" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ClosedEnvelope" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ClosedEnvelope" />
-      <module name="11.10.2019" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="FloatVsDouble" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FloatVsDouble" />
-      <module name="11.10.2019" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="RectangleTwoLoops" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="RectangleTwoLoops" />
       <module name="11.10.2019" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -79,11 +85,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ArraysAndRandoms" />
+        <item itemvalue="Application.Circle" />
         <item itemvalue="Application.TypeConverting" />
         <item itemvalue="Application.ClosedEnvelope" />
         <item itemvalue="Application.RectangleWithOneLoop" />
-        <item itemvalue="Application.RectangleTwoLoops" />
-        <item itemvalue="Application.FloatVsDouble" />
       </list>
     </recent_temporary>
   </component>
@@ -98,6 +104,7 @@
       <option name="presentableId" value="Default" />
       <updated>1570796537181</updated>
       <workItem from="1570796539545" duration="8011000" />
+      <workItem from="1570811319814" duration="2648000" />
     </task>
     <servers />
   </component>
@@ -109,7 +116,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
